@@ -1,0 +1,5 @@
+.auth { margin: 5rem auto; width: 25rem; border-radius: 8px; padding: 1rem; text-align: center; background-color: #6b6b6b; }
+.control { margin-bottom: 0.5rem; }
+.control label { display: block; color: #fff; text-transform: uppercase; margin-bottom: 0.5rem; }
+.control input { display: block; width: 20rem; margin: auto; border-radius: 4px; padding: 0.25rem; border: 1px solid #ccc; }
+.control button { display: block; width: 5rem; margin: auto; border-radius: 4px; padding: 0.25rem; border: 1px solid #ccc; }
